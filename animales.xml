@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Animales>
+    <Leon>
+        <nombreCientifico>Panthera leo</nombreCientifico>
+        <velocidad>80 km/h</velocidad>
+        <periodoDeGestacion>110 días</periodoDeGestacion>
+        <tipo>Terrestre</tipo>
+    </Leon>
+    <Hipopótamo>
+        <nombreCientifico>Hippopotamus amphibius</nombreCientifico>
+        <velocidad>48 km/h</velocidad>
+        <periodoDeGestacion>243 días</periodoDeGestacion>
+        <tipo>Terrestre</tipo>
+    </Hipopótamo>
+    <Jirafa>
+        <nombreCientifico>Giraffa camelopardalis</nombreCientifico>
+        <velocidad>60 km/h</velocidad>
+        <periodoDeGestacion>15 meses</periodoDeGestacion>
+        <tipo>Terrestre</tipo>
+    </Jirafa>
+    <Orca>
+        <nombreCientifico>Orcinus orca</nombreCientifico>
+        <velocidad>56 km/h</velocidad>
+        <periodoDeGestacion>15-18 meses</periodoDeGestacion>
+        <tipo>Acuático</tipo>
+    </Orca>
+    <Cachalote>
+        <nombreCientifico>Physeter macrocephalus</nombreCientifico>
+        <velocidad>45 km/h</velocidad>
+        <periodoDeGestacion>14-16 meses</periodoDeGestacion>
+        <tipo>Acuático</tipo>
+    </Cachalote>
+    <TiburónBlanco>
+        <nombreCientifico>Carcharodon carcharias</nombreCientifico>
+        <velocidad>56 km/h</velocidad>
+        <periodoDeGestacion>Un año o más</periodoDeGestacion>
+        <tipo>Acuático</tipo>
+    </TiburónBlanco>
+    <Pelicano>
+        <nombreCientifico>Pelecanus</nombreCientifico>
+        <velocidad>65km/h</velocidad>
+        <periodoDeGestacion>29-36 días.</periodoDeGestacion>
+        <tipo>Aereo</tipo>
+    </Pelicano>
+    <Gaviota>
+        <nombreCientifico>Laridae</nombreCientifico>
+        <velocidad>60km/h</velocidad>
+        <periodoDeGestacion>25 días</periodoDeGestacion>
+        <tipo>Aereo</tipo>
+    </Gaviota>
+    <ÁguilaReal>
+        <nombreCientifico>Aquila chrysaetos</nombreCientifico>
+        <velocidad>320 km/h</velocidad>
+        <periodoDeGestacion>35-45 días</periodoDeGestacion>
+        <tipo>Aereo</tipo>
+    </ÁguilaReal>
+</Animales>
